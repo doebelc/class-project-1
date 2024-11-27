@@ -36,3 +36,15 @@ I click on calander and shows classes, holidays and students birthdays
 I can send an email to students parents with grade/absent issue for future development
 
 I can leave a comment for students parents 
+
+#### What are our equirements for the Project? List…
+
+- Be deployed to GitHub Pages.
+- Be interactive - i.e. accept and respond to user input.
+✅ Use a CSS framework. Our current choice: Bootstrap site. 
+- Include at least one modal instead of native browser alert, confirm, or prompt - functionality.                                                                     * Look into the CSS framework's documentation for more information!
+- Use client-side storage to store persistent data.
+- Be responsive.
+- Have a polished UI.
+- Have a clean repository that meets quality coding standards: file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- Have a quality README with unique name, description, technologies used, screenshot, and link to deployed application.
